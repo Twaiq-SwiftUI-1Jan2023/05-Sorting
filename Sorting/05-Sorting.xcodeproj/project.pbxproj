@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		97337ADA296EBE57005A506E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97337AD9296EBE57005A506E /* main.swift */; };
+		97337AF4296F8D80005A506E /* SortTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97337AF3296F8D80005A506E /* SortTwoNumbers.swift */; };
+		97337AF6296F8E63005A506E /* FindMaxNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97337AF5296F8E63005A506E /* FindMaxNumber.swift */; };
+		97337AF8296F8FC3005A506E /* sortThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97337AF7296F8FC3005A506E /* sortThreeNumbers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		97337AD6296EBE57005A506E /* 05-Sorting */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "05-Sorting"; sourceTree = BUILT_PRODUCTS_DIR; };
 		97337AD9296EBE57005A506E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		97337AF3296F8D80005A506E /* SortTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortTwoNumbers.swift; sourceTree = "<group>"; };
+		97337AF5296F8E63005A506E /* FindMaxNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMaxNumber.swift; sourceTree = "<group>"; };
+		97337AF7296F8FC3005A506E /* sortThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sortThreeNumbers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				97337AD9296EBE57005A506E /* main.swift */,
+				97337AF3296F8D80005A506E /* SortTwoNumbers.swift */,
+				97337AF5296F8E63005A506E /* FindMaxNumber.swift */,
+				97337AF7296F8FC3005A506E /* sortThreeNumbers.swift */,
 			);
 			path = "05-Sorting";
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				97337ADA296EBE57005A506E /* main.swift in Sources */,
+				97337AF8296F8FC3005A506E /* sortThreeNumbers.swift in Sources */,
+				97337AF4296F8D80005A506E /* SortTwoNumbers.swift in Sources */,
+				97337AF6296F8E63005A506E /* FindMaxNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
